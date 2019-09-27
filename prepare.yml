@@ -387,3 +387,57 @@
       name: openshift-ansible
       state: installed
     tags: rpm,openshift
+
+-----
+
+https://bit.ly/rhdw-sg0927
+
+Lab Instructions: https://servicemesh-istio.web.app/workshop/istio-tutorial/1.3.x/workshop/1setup.html
+
+Login command: oc login -u user<your user number>
+
+Web Console URL: https://console-openshift-console.apps.cluster-sin-8e50.sin-8e50.open.redhat.com
+
+Workspace URL :   https://che-che.apps.cluster-sin-8e50.sin-8e50.open.redhat.com/dashboard/#ide/<username>/istio-workshop
+
+e.g   https://che-che.apps.cluster-sin-8e50.sin-8e50.open.redhat.com/dashboard/#ide/user50/istio-workshop
+
+OpenShift Documentation: - https://docs.openshift.com/container-platform/4.1/welcome/index.html
+
+
+User Names
+user0=
+user1=Sammi
+user2= yeowweng
+user3=satheesh
+user4=kj
+user5=tskumar
+user6=nurul
+user7=Biraj
+user8=liew sc
+user9=Yudheer
+user31=Tat Soon
+user32=Raymond
+user33=Praveen
+user34=pk
+user35=Charles
+user36=
+user37=Charles
+user38=Puru
+user39=Tian Soong
+user40=Douglas
+user20=TSP
+user21=Tat Soon
+user22=ThaZin
+user23=Ashok
+user24=iyappan
+user25=vinoth
+user26=Aaron 
+user27=TK
+user28=Jayaram
+user29=DP
+user30=TAKEN :) 
+
+
+https://servicemesh-istio.web.app/workshop/istio-tutorial/1.3.x/2deploy-microservices.html
+https://che-che.apps.demo5.workspace7.org/f?url=https://gist.githubusercontent.com/kameshsampath/5b990af18baf10cda838de3e0a91173b/raw/3b7c2bfcc2ead2dc1a76d6b309a80dd6a941cc8f/istio_1.1.x_devfile.yaml
